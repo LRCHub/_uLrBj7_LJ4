@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Caramel Pain",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-07T14:17:39.532519Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Caramel Pain",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/01_Caramel_Pain_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Caramel Pain",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/02_Caramel_Pain_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Caramel Pain",
+      "artist": "Suisei Hoshimachi",
+      "has_synced": true,
+      "path": "select/03_Caramel_Pain_Suisei_Hoshimachi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Caramel Pain",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/04_Caramel_Pain_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Caramel Pain",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_Caramel_Pain_星街すいせい.txt"
+    }
+  ]
+}
